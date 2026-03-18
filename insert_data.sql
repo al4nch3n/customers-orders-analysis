@@ -1,0 +1,11 @@
+INSERT INTO customers VALUES (101,'Alice','New York',2023);
+INSERT INTO customers VALUES (102,'Bob','Los Angeles',2024);
+INSERT INTO customers VALUES (103,'Charlie','Chicago',2023);
+INSERT INTO customers VALUES (104,'Diana','New York',2024);
+
+INSERT INTO orders VALUES (1,101,'2024-01-02',50);
+INSERT INTO orders VALUES (2,102,'2024-01-05',20);
+INSERT INTO orders VALUES (3,101,'2024-01-10',30);
+INSERT INTO orders VALUES (4,103,'2024-01-11',100);
+INSERT INTO orders VALUES (5,102,'2024-01-13',40);
+INSERT INTO orders VALUES (6,104,'2024-01-15',60);
